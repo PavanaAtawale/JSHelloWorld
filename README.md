@@ -1,2 +1,5 @@
 # JSHelloWorld
-I is confuzzled so here is my test repo.
+
+This is the first, real project I am doing on GitHUb.
+My first project is a simple Hello World program.
+
